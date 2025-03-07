@@ -1,5 +1,5 @@
-# Introduction {#introduction}
+# Introduction to AI Manager {#introduction}
 
-Welcome to the User Manual of AI File Manger.
+Welcome to the User Manual of AI Manager.
 
-AI File Manager is a cross platform management tool for your files.
+AI Manager is a cross-platform management tool designed to streamline your file operations with the power of AI.
