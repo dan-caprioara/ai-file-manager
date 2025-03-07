@@ -1,3 +1,4 @@
+# AI Manager 1.0
 # AI File Manager 1.0
 
 - [Introduction](topics/introduction.md)

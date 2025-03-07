@@ -1,3 +1,4 @@
+# Introduction to AI Manager
 # Introduction to AI Manager {#introduction}
 
 Welcome to the User Manual of AI Manager.
