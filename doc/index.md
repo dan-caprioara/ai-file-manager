@@ -20,6 +20,8 @@ To install AI Manager, follow these steps:
 3. Choose the installation directory.
 4. Complete the installation process.
 
+### Authors
+The documentation for AI Manager was created by a team of dedicated writers and developers. Special thanks to @XDrafty for contributing to the documentation.
 ### Creating a Shortcut in Program Files
 A shortcut named "AI Manager" will be created in the Program Files directory upon installation. This shortcut allows users to easily launch the application.
 
