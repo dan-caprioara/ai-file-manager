@@ -26,3 +26,8 @@ To launch AI Manager:
 
 The application frame has standard window closing behavior, meaning it will close when the close button is clicked.
 
+## Authors
+
+- **Dan Caprioara**: Contributor to the documentation.
+- **XDrafty**: Contributor to the documentation.
+
