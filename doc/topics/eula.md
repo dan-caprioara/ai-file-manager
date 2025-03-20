@@ -3,7 +3,7 @@
 This End-User License Agreement ("EULA") is a legal agreement between you and Syncro Soft. 
 
 ### License Grant
-Syncro Soft grants you a revocable, non-exclusive, non-transferable, limited license to download, install and use the AI Manager application solely for your personal, non-commercial purposes strictly in accordance with the terms of this Agreement.
+Syncro Soft grants you a revocable, non-exclusive, non-transferable, limited license to download, install and use the AI Manager application for both personal and commercial purposes strictly in accordance with the terms of this Agreement.
 
 ### Restrictions
 You agree not to, and you will not permit others to:
