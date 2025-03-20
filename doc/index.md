@@ -15,6 +15,7 @@
 
 - [Introduction](topics/introduction.md)
 - [Installation](topics/installation.md)
+  - [Postface](#postface)
 - [Launching the Application](topics/launching.md)
 - [Window Closing Behavior](topics/window_closing_behavior.md)
 - [Creating Shortcuts](topics/creating_shortcuts.md)
@@ -25,6 +26,7 @@
 
 - [Introduction](topics/introduction.md)
 
+- [Postface](topics/postface.md)
 ## Installation
 
 Instructions on how to install AI Manager.
