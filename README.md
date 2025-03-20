@@ -1,6 +1,6 @@
 # ai-file-manager
 A project about managing files using AI.
-This is a desktop app.
+This is a multiplatform desktop app.
 
 ## Documentation Structure
 
@@ -11,3 +11,4 @@ This is a desktop app.
 ## Installation
 
 Instructions on how to install AI Manager.
+
