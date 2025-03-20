@@ -1,11 +1,17 @@
+## Preface
 
-## AI Manager User Guide
+- [Copyright Notice](topics/copyright.md)
+- [End-User License Agreement (EULA)](topics/eula.md)
 
 - **XDrafty**: Contributor to the documentation.
 
 
 
 # Table of Contents
+- [Preface](#preface)
+  - [Copyright Notice](topics/copyright.md)
+  - [End-User License Agreement (EULA)](topics/eula.md)
+
 
 - [Introduction](topics/introduction.md)
 - [Installation](topics/installation.md)
