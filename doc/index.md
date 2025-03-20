@@ -26,6 +26,7 @@
 
 - [Introduction](topics/introduction.md)
 
+- [Postface](topics/postface.md)
 ## Installation
 
 Instructions on how to install AI Manager.
