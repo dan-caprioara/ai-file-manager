@@ -19,6 +19,7 @@
 - [Launching the Application](topics/launching.md)
 - [Window Closing Behavior](topics/window_closing_behavior.md)
 - [Creating Shortcuts](topics/creating_shortcuts.md)
+- [Uninstallation](topics/uninstallation.md)
 
 
 # AI Manager 1.0
