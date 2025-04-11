@@ -23,3 +23,13 @@ To uninstall the AI Manager application from a macOS operating system, follow th
 5. To remove the application completely, right-click on the **Trash** and select **Empty Trash**. 
 
 This will remove the AI Manager application from your system. Note that this process does not delete user data stored in other locations. If you wish to remove user data, you will need to manually delete those files.
+## Uninstalling AI Manager on Linux
+
+To uninstall the AI Manager application from a Linux operating system, follow these steps:
+
+1. Open a terminal window.
+2. Navigate to the directory where AI Manager is installed. By default, this is usually in your home directory.
+3. Remove the AI Manager directory by using the command `rm -rf AI-Manager-Directory`, replacing `AI-Manager-Directory` with the actual directory name if different.
+4. If you created any shortcuts or symbolic links to AI Manager, make sure to remove those as well.
+
+This will remove the AI Manager application from your system. Note that this process does not delete user data stored in other locations. If you wish to remove user data, you will need to manually delete those files.
