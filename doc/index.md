@@ -19,6 +19,7 @@
 - [Launching the Application](topics/launching.md)
 - [Window Closing Behavior](topics/window_closing_behavior.md)
 - [Creating Shortcuts](topics/creating_shortcuts.md)
+- [Drag and Drop Functionality in File Manager](topics/drag_and_drop.md)
 
 
 # AI Manager 1.0
