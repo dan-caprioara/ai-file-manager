@@ -17,6 +17,7 @@
 - [Installation](topics/installation.md)
   - [Postface](#postface)
 - [Launching the Application](topics/launching.md)
+- [Zoom and Font Controls in AI Manager](topics/zoom_and_font_controls.md)
 - [Window Closing Behavior](topics/window_closing_behavior.md)
 - [Creating Shortcuts](topics/creating_shortcuts.md)
 
