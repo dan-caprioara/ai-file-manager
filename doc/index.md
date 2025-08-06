@@ -6,7 +6,6 @@
 - **XDrafty**: Contributor to the documentation.
 
 
-
 # Table of Contents
 - [Preface](#preface)
   - [Copyright Notice](topics/copyright.md)
@@ -17,7 +16,6 @@
 - [Installation](topics/installation.md)
   - [Postface](#postface)
 - [Launching the Application](topics/launching.md)
-- [Zoom and Font Controls in AI Manager](topics/zoom_and_font_controls.md)
 - [Window Closing Behavior](topics/window_closing_behavior.md)
 - [Creating Shortcuts](topics/creating_shortcuts.md)
 
@@ -37,3 +35,9 @@ Instructions on how to install AI Manager.
 To launch the AI Manager application, locate the "AI Manager" shortcut in the Program Files. Double-click the shortcut to open the application frame. The frame currently opens empty but will be populated with functionalities in future updates.
 
 The application frame responds to normal window closing operations, allowing you to exit by clicking the close button.
+
+## Zoom and Font Controls
+
+- [Zoom and Font Controls in AI Manager](topics/zoom_and_font_controls.md)
+
+
