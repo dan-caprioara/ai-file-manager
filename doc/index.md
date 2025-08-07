@@ -37,6 +37,10 @@ To launch the AI Manager application, locate the "AI Manager" shortcut in the Pr
 
 The application frame responds to normal window closing operations, allowing you to exit by clicking the close button.
 
+### Automatic Save on Close
+
+To prevent data loss, AI File Manager automatically saves all modified files when the application is closed. This ensures that no changes are lost unintentionally.
+
 ## Zoom and Font Controls
 
 - [Zoom and Font Controls in AI Manager](topics/zoom_and_font_controls.md)
