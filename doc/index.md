@@ -26,6 +26,7 @@
 - [Introduction](topics/introduction.md)
 
 - [Postface](topics/postface.md)
+- [Multi-File Selection and Operations](topics/multi_file_selection_and_operations.md)
 ## Installation
 
 Instructions on how to install AI Manager.
